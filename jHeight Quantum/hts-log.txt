@@ -1,0 +1,18 @@
+HTTrack3.48-22+htsswf+htsjava launched on Mon, 13 Feb 2017 17:07:18 at http://sites.google.com/site/jheightquantum http://sites.google.com/site/jheightquantum/home http://sites.google.com/site/jheightquantum/stations http://sites.google.com/site/jheightquantum/stations/kcc-jq http://sites.google.com/site/jheightquantum/statations/kcc-jq/docs http://sites.google.com/site/jheightquantum/stations/kcc-jq/songs +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://sites.google.com/site/jheightquantum http://sites.google.com/site/jheightquantum/home http://sites.google.com/site/jheightquantum/stations http://sites.google.com/site/jheightquantum/stations/kcc-jq http://sites.google.com/site/jheightquantum/statations/kcc-jq/docs http://sites.google.com/site/jheightquantum/stations/kcc-jq/songs -O1 "C:\Users\GamerPlays\Desktop\Quantum\jheight quantum" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:07:25	Warning: 	Moved Temporarily for sites.google.com/site/jheightquantum/
+17:07:25	Warning: 	Redirected link is identical because of 'URL Hack' option: sites.google.com/site/jheightquantum/ and https://sites.google.com/site/jheightquantum/
+17:07:25	Warning: 	File has moved from sites.google.com/site/jheightquantum/ to https://sites.google.com/site/jheightquantum/
+17:07:37	Error: 	"Not Found" (404) at link https://sites.google.com/site/jheightquantum/statations/kcc-jq/docs (from primary/primary)
+17:07:48	Warning: 	Link https://sites.google.com/site/jheightquantum/system/app/pages/reportAbuse not scanned (follow robots meta tag)
+17:07:48	Error: 	"Bad Request" (400) at link https://sites.google.com/site/jheightquantum/_/tz (from https://sites.google.com/site/jheightquantum/home)
+17:07:52	Error: 	"Not Found" (404) at link docs.google.com/images/env.png (from https://sites.google.com/site/jheightquantum/_/rsrc/1486937275000/system/app/css/camelot/error.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 34 seconds : 50 links scanned, 44 files written (3224123 bytes overall) [3131926 bytes received at 92115 bytes/sec], 198768 bytes transferred using HTTP compression in 28 files, ratio 27%
+(3 errors, 4 warnings, 0 messages)
